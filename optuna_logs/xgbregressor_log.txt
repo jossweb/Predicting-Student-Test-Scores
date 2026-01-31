@@ -1,0 +1,36 @@
+Mean RMSE: 8.892548403637871
+Params: {'n_estimators': 4914, 'learning_rate': 0.06864890141379568, 'max_depth': 7, 'min_child_weight': 7, 'subsample': 0.7002774805192057, 'colsample_bytree': 0.6289752497077424, 'gamma': 1.9576260355484354, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.816086489083949
+Params: {'n_estimators': 4330, 'learning_rate': 0.0060468096278074365, 'max_depth': 3, 'min_child_weight': 8, 'subsample': 0.9952642432779341, 'colsample_bytree': 0.8542222826464634, 'gamma': 0.887572625293806, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.889501176085533
+Params: {'n_estimators': 4268, 'learning_rate': 0.0013075464434617575, 'max_depth': 4, 'min_child_weight': 5, 'subsample': 0.8758971370949747, 'colsample_bytree': 0.9894663885318435, 'gamma': 4.85513598574472, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.731721332959243
+Params: {'n_estimators': 4817, 'learning_rate': 0.009478931283398833, 'max_depth': 7, 'min_child_weight': 9, 'subsample': 0.7435231071095955, 'colsample_bytree': 0.6271929669547069, 'gamma': 2.330595735400812, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 9.376378625765224
+Params: {'n_estimators': 2891, 'learning_rate': 0.0013000714830767343, 'max_depth': 3, 'min_child_weight': 8, 'subsample': 0.7440352813786076, 'colsample_bytree': 0.6728238725508585, 'gamma': 0.5357963523045189, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.996348444769044
+Params: {'n_estimators': 2578, 'learning_rate': 0.0013762730704595092, 'max_depth': 5, 'min_child_weight': 4, 'subsample': 0.7622207918555204, 'colsample_bytree': 0.7842544042699209, 'gamma': 4.020063490065628, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.794015892732737
+Params: {'n_estimators': 4819, 'learning_rate': 0.06494655141078975, 'max_depth': 6, 'min_child_weight': 2, 'subsample': 0.9244089990468937, 'colsample_bytree': 0.908078856445334, 'gamma': 1.1635818068805681, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.7568565728962
+Params: {'n_estimators': 4965, 'learning_rate': 0.06698822016869876, 'max_depth': 5, 'min_child_weight': 6, 'subsample': 0.7780867290738562, 'colsample_bytree': 0.717977323866844, 'gamma': 3.905960263054555, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.805091221579636
+Params: {'n_estimators': 4174, 'learning_rate': 0.007712192952808765, 'max_depth': 3, 'min_child_weight': 9, 'subsample': 0.6498666645895885, 'colsample_bytree': 0.6309144908940271, 'gamma': 4.236001767297045, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.768225889222453
+Params: {'n_estimators': 3728, 'learning_rate': 0.0020723005057885126, 'max_depth': 9, 'min_child_weight': 7, 'subsample': 0.6090892420367545, 'colsample_bytree': 0.8195486940131318, 'gamma': 4.9777247051922835, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.780643428357592
+Params: {'n_estimators': 5755, 'learning_rate': 0.021275835076622604, 'max_depth': 8, 'min_child_weight': 10, 'subsample': 0.84160688325693, 'colsample_bytree': 0.7398081328789261, 'gamma': 2.958135404416132, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
+Mean RMSE: 8.734933032904602
+Params: {'n_estimators': 5844, 'learning_rate': 0.021250743236412812, 'max_depth': 6, 'min_child_weight': 3, 'subsample': 0.796393157524412, 'colsample_bytree': 0.7227961223175221, 'gamma': 2.7812474254575523, 'n_jobs': -1, 'random_state': 42}
+--------------------------------------------------
